@@ -1,6 +1,11 @@
 # Data-Science-Specialization-Coursera
 Assignments for Data Science Specialization (10 courses)
 
+Part 2 : R Programming
+Programming Assignment
+----------------------
+Week 1 and Week 4 Assignments
+
 Part 3 : Data Cleaning Course 
 Programming Assignment
 ----------------------
